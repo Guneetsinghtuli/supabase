@@ -8,9 +8,14 @@ Submission for Supabase_hack
 
 This is an app for detecting road accidents using machine learning techniques. This app use a variety of sensors, such as accelerometers and GPS to detect and analyze data related to accidents, such as changes in speed, direction, and impact force. The ultimate goal is to minimize response times and improve outcomes for those involved in accidents. The key challenges in developing effective accident detection systems include ensuring accuracy and reliability of detection, minimizing false positives, and ensuring compatibility with existing emergency response infrastructure.
 
+## Use of Supabase
+
+I implemented Supabase's magic link authentication, simplifying the login process and enhancing the user experience. The SOS list was securely stored in a dedicated table within the Supabase database, allowing efficient management of SOS requests. Supabase's seamless integration and robust features provided a reliable backend infrastructure for my project.
+
 ## Video Links
 
 Before Accident: https://drive.google.com/file/d/15a0tmAD_j63vGzN-7_K--lwiejBV5Si1/view?usp=sharing
+
 At time of accident: https://drive.google.com/file/d/15ref3lGqpElTICW8uh1KY-P5ashAo1ZW/view?usp=sharing
 
 ## Home Page in Dark Mode 
