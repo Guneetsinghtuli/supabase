@@ -8,6 +8,22 @@ Submission for Supabase_hack
 
 This is an app for detecting road accidents using machine learning techniques. This app use a variety of sensors, such as accelerometers and GPS to detect and analyze data related to accidents, such as changes in speed, direction, and impact force. The ultimate goal is to minimize response times and improve outcomes for those involved in accidents. The key challenges in developing effective accident detection systems include ensuring accuracy and reliability of detection, minimizing false positives, and ensuring compatibility with existing emergency response infrastructure.
 
+## Video Links
+
+Before Accident: https://drive.google.com/file/d/15a0tmAD_j63vGzN-7_K--lwiejBV5Si1/view?usp=sharing
+At time of accident: https://drive.google.com/file/d/15ref3lGqpElTICW8uh1KY-P5ashAo1ZW/view?usp=sharing
+
+## Home Page in Dark Mode 
+
+![Dark Mode](./DarkMode.png)
+
+
+
+## Participants 
+
+Twitter: https://twitter.com/Guneetsingh02
+Github: https://github.com/Guneetsinghtuli
+
 
 ## Features
 Accelerometer and Gyroscope sensors: The app uses the accelerometer and gyroscope sensors in a mobile device to detect sudden changes in speed or direction that may indicate a car accident.
